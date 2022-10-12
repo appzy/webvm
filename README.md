@@ -53,8 +53,8 @@ This project depends on:
 Copyright (c) Leaning Technologies Limited. All rights reserved.
 # cowsay "thanks you"
  ____________
-- thanks you -
--------------
+ 
+[- thanks you -]
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
