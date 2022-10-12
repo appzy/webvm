@@ -51,3 +51,12 @@ This project depends on:
 
 # License
 Copyright (c) Leaning Technologies Limited. All rights reserved.
+# cowsay "thanks you"
+ ____________
+< thanks you >
+ ------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
