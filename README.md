@@ -8,6 +8,9 @@ WebVM is a server-less virtual environment running fully client-side in HTML5/We
 
 WebVM is powered by the CheerpX virtualization engine, and enables safe, sandboxed client-side execution of x86 binaries on any browser. CheerpX includes an x86-to-WebAssembly JIT compiler, a virtual block-based file system, and a Linux syscall emulator. 
 
+WebVM 由 CheerpX 虚拟化引擎提供支持，可在任何浏览器上实现 x86 二进制文件的安全、沙盒客户端执行。 CheerpX 包括一个 x86-to-WebAssembly JIT 编译器、一个基于虚拟块的文件系统和一个 Linux 系统调用模拟器。
+
+
 # How to: general usage
 
 - go to [https://webvm.io](https://webvm.io)
